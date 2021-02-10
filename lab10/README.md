@@ -1,7 +1,7 @@
 # Загальне завдання
 Реалізувати програми відповідно до індивідуальних завдань.
 
-#Індивідуальне завдання
+Індивідуальне завдання
 1. Знайти НСД для двох заданих чисел.
 2. Виконати циклічне зрушення елементів рядків двомірного масиву в напрямку справа наліво. 
 
@@ -40,8 +40,8 @@ int main (){
 	return 0;
 }
 ```
-
 ![home/Lazurenko-KhPI-programming/lab10/](лаб05.1.png)
+
 ```
 #include <stdio.h>
 #define ARRAY_SIZE 5	//array size
@@ -98,10 +98,10 @@ int main() {
 
 2.4 Компіляція проектів, та перевірка правильності роботи програми
 
-![home/Lazurenko-KhPI-programming/lab10/](компіляція 5.1.png)
-![home/Lazurenko-KhPI-programming/lab10/](результат 5.1.png)
-![home/Lazurenko-KhPI-programming/lab10/](компіляція 6.5.png)
-![home/Lazurenko-KhPI-programming/lab10/](результат 6.5.png)
+![home/Lazurenko-KhPI-programming/lab10/](компіляція5.1.png)
+![home/Lazurenko-KhPI-programming/lab10/](результат5.1.png)
+![home/Lazurenko-KhPI-programming/lab10/](компіляція6.5.png)
+![home/Lazurenko-KhPI-programming/lab10/](результат6.5.png)
 
 Висновок:
 Я створив програму, яка працює за своїм функціональним призначення за допомогою власно написаного коду.
